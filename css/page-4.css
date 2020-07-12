@@ -9,6 +9,7 @@ body{
     height: 1000px;
     color:white ;
     font-style: italic;
+    height: auto;
 
     }
     h1 {
@@ -52,3 +53,12 @@ body{
         margin: 20px 0px 10px 100px;
     }
         
+#img-1 {
+    height: 300px;
+    width:600px;
+    
+}
+#img-2 {
+    height: 300px;
+    width: 450px;
+}
